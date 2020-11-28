@@ -1,0 +1,4 @@
+[submodule "fsn-test"]
+	path = fsn-test
+	url = https://github.com/ketanmy/fsn-test.git
+	branch = test
